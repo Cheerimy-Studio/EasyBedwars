@@ -1,3 +1,7 @@
+[下载镜像](https://github.com/Cheerimy-Studio/EasyBedwars/blob/main/Mirror.md) [Download Mirror](https://github.com/Cheerimy-Studio/EasyBedwars/blob/main/Mirror.md)
+
+---
+
 ### EasyBedwars：轻松搭建起床战争服务器的不二之选
 
 ---
