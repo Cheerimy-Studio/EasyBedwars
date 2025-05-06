@@ -1,4 +1,4 @@
-[下载镜像](https://github.com/Cheerimy-Studio/EasyBedwars/blob/main/Mirror.md) [Download Mirror](https://github.com/Cheerimy-Studio/EasyBedwars/blob/main/Mirror.md)
+[下载](https://github.com/Cheerimy-Studio/EasyBedwars/blob/main/Mirror.md) [Download](https://github.com/Cheerimy-Studio/EasyBedwars/blob/main/Mirror.md)
 
 ---
 
